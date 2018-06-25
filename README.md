@@ -6,14 +6,19 @@ This project is an example of a project using Nuget to manage its build.
 The package will be downloaded after the first execution of the project, after that you can find them at packages folder next to the Project folder.  
 
 The dependencies are:  
-- System.Data.SQLite.1.0.107.0
-- System.Data.SQLite.Core.1.0.108.0
-- System.Data.SQLite.EF6.1.0.108.0
-- System.Data.SQLite.Linq.1.0.108.0
+- System.Data.SQLite.1.0.107.0  
  
-#### To build the projects:
+ Package source:  
+ nuget.org/packages/System.Data.SQLite/1.0.107  
+ 
+ Target:
+ Dotnet Version = 4.5.1
+ 
+#### To build the projects (Windows):  
+via Visio Studio  
 
-#### To run the projects:
+#### To run the projects (Windows):
+via Visio Studio  
 
 ### Number of dependencies:  
   
