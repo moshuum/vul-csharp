@@ -20,7 +20,7 @@ The dependencies are:
 #### To run the projects (Windows):
 'Start' via Visual Studio  
 
-### Restoring packages via Nuget (not required)
+#### Restoring packages via Nuget (not required):
 nuget restore 'Example Project.sln' 
 
 ### Number of dependencies:  
