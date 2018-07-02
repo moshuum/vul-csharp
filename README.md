@@ -20,11 +20,11 @@ The dependencies are:
 #### To run the projects (Windows):
 'Start' via Visual Studio  
 
-### Number of dependencies:  
-- 1 Direct dependency
-
 ### Restoring packages via Nuget (not required)
-nuget restore 'Example Project.sln'  
+nuget restore 'Example Project.sln' 
+
+### Number of dependencies:  
+- 1 Direct dependency 
 
 #### Vulnerable Call Chain
 'create table [tablename] as'
